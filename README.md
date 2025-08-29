@@ -85,6 +85,15 @@ This tab is for downloading images from `fuoverflow.com`.
 4.  **xf_session Cookie**: Enter your `xf_session` cookie value.
 5.  Click **Start Download**. The images will be saved to a new folder named `downloaded_images`.
 
+##### How to Get Your Cookies
+You can use a browser extension like **Cookies Editor** for your browser to easily view and copy the `xf_user` and `xf_session` cookie values.
+
+Alternatively, on Firefox, you can use the developer tools:
+1. Press `F12` to open the developer tools.
+2. Go to the **Storage** tab.
+3. Expand the **Cookies** section and select the `fuoverflow.com` domain.
+4. Find the `xf_user` and `xf_session` cookies and copy their values.
+
 #### 2. Gemini Processor Tab
 
 This tab is for analyzing the downloaded images with AI.
