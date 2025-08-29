@@ -47,8 +47,8 @@ config.txt
 
 1.  **Clone the repository (or download the files):**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-directory>
+    git clone https://github.com/bangmcpe3321/FUOverflow-image-downloader.git
+    cd FUOverflow-image-downloader
     ```
 
 2.  **Set up a Python virtual environment (recommended):**
