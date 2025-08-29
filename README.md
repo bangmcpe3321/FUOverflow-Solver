@@ -37,7 +37,7 @@ config.txt
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.12.x
 - The following Python libraries:
   - `google-generativeai`
   - `requests`
