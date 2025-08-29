@@ -45,6 +45,7 @@ config.txt
 
 ## Installation
 **Windows: Just run gui.bat**
+
 **Linux:**
 1.  **Clone the repository (or download the files):**
     ```bash
