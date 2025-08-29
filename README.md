@@ -65,10 +65,6 @@ config.txt
     pip install google-generativeai requests Pillow
     ```
 
-4.  **Create the configuration file:**
-    - Create a new file named `config.txt` in the same directory.
-    - Open the file and paste your Google Gemini API key into it. Save the file.
-
 ## How to Use
 
 ### GUI Method (Recommended)
