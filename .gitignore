@@ -1,0 +1,11 @@
+# Python virtual environment
+/venv/
+
+# Configuration files
+config.txt
+
+# Downloaded images
+/downloaded_images/
+
+# Output files
+*.txt
