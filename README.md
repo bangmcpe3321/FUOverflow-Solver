@@ -86,7 +86,7 @@ This tab is for downloading images from `fuoverflow.com`.
 5.  Click **Start Download**. The images will be saved to a new folder named `downloaded_images`.
 
 ##### How to Get Your Cookies
-You can use a browser extension like [Cookies Editor](https://pages.github.com/](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm) for your browser to easily view and copy the `xf_user` and `xf_session` cookie values.
+You can use a browser extension like [Cookies Editor](https://pages.github.com/](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm/) for your browser to easily view and copy the `xf_user` and `xf_session` cookie values.
 
 Alternatively, on Firefox, you can use the developer tools:
 1. Press `F12` to open the developer tools.
