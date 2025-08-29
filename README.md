@@ -44,7 +44,9 @@ config.txt
   - `Pillow`
 
 ## Installation
-**Windows: Just run gui.bat**
+
+**Windows:**
+- Simply run `gui.bat` to start the application.
 
 **Linux:**
 1.  **Clone the repository (or download the files):**
@@ -56,8 +58,8 @@ config.txt
 
 2.  **Set up a Python virtual environment (recommended):**
     ```bash
-    python -m venv venv
-    venv\Scripts\activate
+    python -m venv ven
+    source venv/bin/activate
     ```
 
 3.  **Install the required packages:**
@@ -71,8 +73,8 @@ config.txt
 
 Launch the application by running the batch file or the Python script:
 
-- Double-click `gui.bat`
-- OR run `python gui_app.py` from your terminal.
+- **Windows**: Double-click `gui.bat`
+- **Linux**: Run `python gui_app.py` from your terminal.
 
 #### 1. Image Downloader Tab
 
@@ -85,13 +87,17 @@ This tab is for downloading images from `fuoverflow.com`.
 5.  Click **Start Download**. The images will be saved to a new folder named `downloaded_images`.
 
 ##### How to Get Your Cookies
-You can use a browser extension like [Cookies Editor](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm) for your browser to easily view and copy the `xf_user` and `xf_session` cookie values.
 
-Alternatively, on Firefox, you can use the developer tools:
-1. Press `F12` to open the developer tools.
-2. Go to the **Storage** tab.
-3. Expand the **Cookies** section and select the `fuoverflow.com` domain.
-4. Find the `xf_user` and `xf_session` cookies and copy their values.
+**Chrome :**
+You can use a browser extension like [Cookie Editor](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm) to easily view and copy the `xf_user` and `xf_session` cookie values.
+**Firefox :**
+1.  Open `fuoverflow.com` in Firefox.
+2.  Press `F12` to open the developer tools.
+3.  Go to the **Network** tab.
+4.  Refresh the page (F5).
+5.  Click on any request to `fuoverflow.com` in the list.
+6.  In the right-hand panel, go to the **Cookies** tab.
+7.  Find and copy the values for `xf_user` and `xf_session`.
 
 #### 2. Gemini Processor Tab
 
