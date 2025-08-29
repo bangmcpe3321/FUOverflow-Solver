@@ -48,6 +48,7 @@ config.txt
 1.  **Clone the repository (or download the files):**
     ```bash
     git clone https://github.com/bangmcpe3321/FUOverflow-image-downloader.git
+    
     cd FUOverflow-image-downloader
     ```
 
@@ -61,6 +62,7 @@ config.txt
     ```bash
     pip install google-generativeai requests Pillow
     ```
+**If you using Windows just run gui.bat**
 
 4.  **Create the configuration file:**
     - Create a new file named `config.txt` in the same directory.
