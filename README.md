@@ -1,3 +1,5 @@
+[English](https://github.com/bangmcpe3321/FUOverflow-Solver/blob/main/README.en.md)
+
 # Trình tải xuống hình ảnh & xử lý Gemini cho FUOverflow (Tiếng Việt)
 
 Dự án này cung cấp một tiện ích hai phần để tải xuống hình ảnh từ `fuoverflow.com` và xử lý chúng bằng Google Gemini AI để trích xuất và trả lời các câu hỏi có trong hình ảnh.
