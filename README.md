@@ -123,15 +123,3 @@ Bạn có thể chạy phân tích AI trực tiếp từ dòng lệnh.
 3.  Tập lệnh sẽ kiểm tra khóa API trong `config.txt` trước. Nếu không tìm thấy, nó sẽ nhắc bạn nhập.
 4.  Sau đó, nó sẽ yêu cầu đường dẫn đến thư mục chứa hình ảnh của bạn.
 5.  Tập lệnh sẽ xử lý tất cả các hình ảnh trong thư mục và lưu kết quả vào `all_questions_and_answers.txt`.
-
----
-
-## Mô tả tệp
-
-- `gui_app.py`: Tệp ứng dụng chính chứa GUI dựa trên Tkinter.
-- `AI.py`: Một tập lệnh độc lập để chạy xử lý hình ảnh AI từ dòng lệnh.
-- `gui.bat`: Một tập lệnh batch để dễ dàng khởi chạy ứng dụng GUI trên Windows.
-- `.gitignore`: Một tệp cho Git biết tệp hoặc thư mục nào cần bỏ qua trong một dự án.
-- `config.txt`: Tệp cấu hình để lưu trữ khóa API Google Gemini (tự động tạo).
-- `image.py`: A standalone command-line script for batch-downloading images.
-- `venv/`: Thư mục chứa môi trường ảo Python và các phụ thuộc của nó.
