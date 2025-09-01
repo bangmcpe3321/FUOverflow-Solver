@@ -1,3 +1,4 @@
+[Vietnamese](https://github.com/bangmcpe3321/FUOverflow-Solver/blob/main/README.md)
 # FUOverflow Image Downloader & Gemini Processor
 
 This project provides a two-part utility for downloading images from `fuoverflow.com` and processing them using the Google Gemini AI to extract and answer questions found within the images.
